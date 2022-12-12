@@ -1,4 +1,4 @@
-# tictactoe-client
+# tictactoe
 
 ## Project setup
 ```

@@ -37,6 +37,7 @@ namespace tictactoe_server.Models
 				Positions.ElementAt(position).Marker = player;
 			}
 		}
+
 		public bool CheckWinner()
 		{
 			for (int i = 0; i < 3; i++)
