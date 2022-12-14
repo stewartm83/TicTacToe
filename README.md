@@ -20,5 +20,5 @@ Open the project in Visual Studio and then  start debugging
 
 ## Client
 
-Instructions on how to build and run the client are the this [Read Me](https://github.com/stewartm83/tic-tac-toe/tree/master/client/tictactoe-client).
+Instructions on how to build and run the client are the this [Read Me](https://github.com/stewartm83/tic-tac-toe/tree/master/client/tictactoe).
 
